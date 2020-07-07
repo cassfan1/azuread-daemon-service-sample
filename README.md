@@ -7,6 +7,8 @@ This repo only includes service side code.
 Client side code is simple:
 
 ```csharp
+using Microsoft.IdentityModel.Clients.ActiveDirectory;
+
 string clientId = "";
 string clientSecret = "";
 string instance = "https://login.microsoftonline.com/{0}";
