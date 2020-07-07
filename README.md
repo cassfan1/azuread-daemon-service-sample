@@ -1,6 +1,7 @@
 # azuread-daemon-service-sample
 
-Use AzureAd daemon mechanism to implement application-application token authentication&authorization.
+Use AzureAd daemon mechanism to implement application-application token authentication&authorization. 
+http://svcnsuzlsjira:8090/pages/viewpage.action?pageId=87949402
 
 This repo only includes service side code.
 
