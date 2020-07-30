@@ -13,7 +13,7 @@ using Microsoft.IdentityModel.Clients.ActiveDirectory;
 string clientId = "";
 string clientSecret = "";
 string instance = "https://login.microsoftonline.com/{0}";
-string tenant = "";
+string tenantId = "";
 var resourceId = "";
 
 var authority = string.Format(CultureInfo.InvariantCulture, instance, tenant);
